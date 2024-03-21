@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "931947536217",
+    "firebase_url": "https://curso-kotlin-64ae3-default-rtdb.firebaseio.com",
+    "project_id": "curso-kotlin-64ae3",
+    "storage_bucket": "curso-kotlin-64ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931947536217:android:2c4720a5057ae16a2bf648",
+        "android_client_info": {
+          "package_name": "com.example.implementandofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAp4ERP2S-n5BsrXY6h7_cOAr8VAaSv2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
